@@ -1,4 +1,4 @@
-num = 5
+num = 
 
 def plus_two(num)
 	num + 2
